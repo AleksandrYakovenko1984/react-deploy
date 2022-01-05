@@ -10,7 +10,7 @@ export const TriggerButton = styled.button`
   margin: 0;
   padding: 8px 12px;
   background-color: blue;
-  color: crimson;
+  color: beige;
   width: 150px;
   height: 40px;
   border-radius: 5px;
