@@ -15,7 +15,7 @@ export const TriggerButton = styled.button`
   border-radius: 5px;
   font-size: 15px;
   font-weight: bold;
-  box-shadow: seagreen 6px 6px;
+  box-shadow: seagreen 5px 5px;
   cursor: pointer;
   > svg {
     display: block;
